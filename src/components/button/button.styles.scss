@@ -1,4 +1,7 @@
 .button-container {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   min-width: 165px;
   width: auto;
   height: 50px;
