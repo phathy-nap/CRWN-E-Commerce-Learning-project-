@@ -11,7 +11,6 @@ import {
 } from "firebase/auth";
 
 import {
-  Firestore,
   doc,
   getDoc,
   getFirestore,
